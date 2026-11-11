@@ -1,0 +1,7 @@
+./obj/system_nuc1xx.o: \
+  C:\Users\TUF\ FA707RC-HX024W\Documents\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Source\system_NUC1xx.c \
+  C:\Users\TUF\ FA707RC-HX024W\Documents\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\NUC1xx.h \
+  C:\Users\TUF\ FA707RC-HX024W\Documents\NUC140BSP_EDU\Library\CMSIS\Include\core_cm0.h \
+  C:\Users\TUF\ FA707RC-HX024W\Documents\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\system_NUC1xx.h \
+  C:\Users\TUF\ FA707RC-HX024W\Documents\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\SysInfra.h \
+  C:\Users\TUF\ FA707RC-HX024W\Documents\NUC140BSP_EDU\Library\Device\Nuvoton\NUC1xx\Include\ModuleID.h

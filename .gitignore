@@ -1,0 +1,8 @@
+# Course project lives in its own repository
+P01 Project/
+
+# Local Claude Code settings
+.claude/
+
+__pycache__/
+*.pyc
